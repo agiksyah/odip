@@ -187,7 +187,7 @@ function reset() {
     score = 0;
     credits.renderable = true;
     scoreText.setText("ODIP\nPENGABDI\nSETNOV");
-    instText.setText("SENTUH UNTUK KABUR\nDENGAN SAYAP");
+    instText.setText("SENTUH UNTUK KABUR");
     gameOverText.renderable = false;
     birdie.body.allowGravity = false;
     birdie.angle = 0;
