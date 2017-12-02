@@ -6,11 +6,10 @@ flappy-bird
 
 Flappy Bird (Skin) Browser Game Phaser framework
 
-Demo url: http://uralozden.com/flappy/
+Demo url: https://rawgit.com/agiksyah/odip/master/index.html
 
-This repo is a fork of : Don't Touch My Birdie  https://github.com/marksteve/dtmb
+This repo is a fork of :  http://uralozden.com/flappy/
 
-His demo: http://marksteve.com/dtmb
 =======
 # odip
 >>>>>>> 2f4ba2afd731669f371ce9cd2afd606098f46705
